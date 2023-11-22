@@ -1,5 +1,4 @@
 [build]
   command = "npm run build"
   publish = "dist"
-  node_version = "13.12.0"
-  
+  node_version = "14.17.0"
